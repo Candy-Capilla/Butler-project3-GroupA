@@ -11,11 +11,11 @@ Is there any correlation between the number of times GME or GameStop is mentione
 ###  Datasets:
 
 Reddit Wall Street Bets posts:
-[Kaggle] (https://www.kaggle.com/gpreda/reddit-wallstreetsbets-posts)
+**[Kaggle](https://www.kaggle.com/gpreda/reddit-wallstreetsbets-posts)**
 
 This dataset contains every post on WSB from 28Sep20 to current and a timestamp of the post
 
-Historical Stock values of GME from the time period available in the WSB dataset are available [Here] (https://finance.yahoo.com/quote/GME/history)
+Historical Stock values of GME from the time period available in the WSB dataset are available **[Here](https://finance.yahoo.com/quote/GME/history)**
 
 Both dataset are available for download in .csv format and are updated daily. 
 
