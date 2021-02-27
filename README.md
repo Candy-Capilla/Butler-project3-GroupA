@@ -3,12 +3,12 @@
 # Wall Street Bets
 Proposal 
 
-** Did Wall Street Bets Really Influence the Value of GME **
+#### ** Did Wall Street Bets Really Influence the Value of GME **
 
 ### Topic:
 Is there any correlation between the number of times GME or GameStop is mentioned and change in value of the GME stock and could we use machine learning to predict that change.
 
-** Datasets: **
+#### ** Datasets: **
 
 Reddit Wall Street Bets posts:
 [Kaggle] (https://www.kaggle.com/gpreda/reddit-wallstreetsbets-posts)
