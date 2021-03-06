@@ -23,10 +23,10 @@ Both dataset are available for download in .csv format and are updated daily.
 Using google collab we will create a notebook and use either pandas or pyspark to clean up the data and merge them into one dataset.
 
 ## Analysis:
-Using SciKit Learn and MatPlotLib we will create an overlay of two line graphs. One being the number of comments mentioning GME or gamestop in a given day, another being the closing stock price of $GME for that day. We will first do a statistical analysis to determine of there is a relationship between the two. From there we will perform a non-linear regression analysis to determine the type of relationship between the two. If time allows, we will plug in any other stocks that are mentioned on a regular basis by WSB, and perform the same analysis.
+Using SciKit Learn and MatPlotLib we will create an overlay of two line graphs. One being the number of comments mentioning GME or gamestop in a given day, another being the closing stock price of $GME for that day. We will also do a sentiment analysis using the vader library to determine negative or positive sentiment. We will first do a statistical analysis to determine of there is a relationship between the two. From there we will perform a non-linear regression analysis to determine the type of relationship between the two. If time allows, we will plug in any other stocks that are mentioned on a regular basis by WSB, and perform the same analysis.
 
 ## Presentation:
-We will create a website to present the results of our analysis using html/css/bootstrap and give a detailed explanation of our findings. 
+We will create a tableau to present the results of our analysis and give a detailed explanation of our findings. 
 
 ## Links:
 [Google Colab Notebook](https://colab.research.google.com/drive/1NTlPFZTNnNOCxpQVMCVr-4F3Gj0w7QB1#scrollTo=kQVVVG17zSQ9)
