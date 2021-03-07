@@ -31,4 +31,4 @@ We will create a tableau to present the results of our analysis and give a detai
 ## Links:
 [Google Colab Notebook](https://colab.research.google.com/drive/1NTlPFZTNnNOCxpQVMCVr-4F3Gj0w7QB1#scrollTo=kQVVVG17zSQ9)
 
-[Tableau Visualization](https://public.tableau.com/profile/candy.capilla#!/vizhome/Butler-Project3-GROUPA/ProblemPg?publish=yes)
+[Tableau Visualization](https://public.tableau.com/profile/candy.capilla#!/vizhome/Butler-Project3-GROUPA/WSBandGME)
